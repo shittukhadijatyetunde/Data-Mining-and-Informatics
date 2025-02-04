@@ -114,33 +114,20 @@ This repository contains a series of coursework assessments in **Data Science**,
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/Data-Science-Coursework.git
-cd Data-Science-Coursework
+git clone https://github.com/shittukhadijatyetunde/Data Mining and Informatics.git
+cd Data Mining and Informatics
 ```
 
-### **2️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Run Jupyter Notebooks**
-```bash
-cd notebooks
-jupyter notebook
-```
-
-### **4️⃣ Execute Scripts**
+### ** Execute Scripts**
 Open and run any task-specific notebook to reproduce results.
 
 ---
 
-## 🤝 Contributors
+## 🤝 Contributor
 - **Khadijat Yetunde Shittu**  
-- **Collaborators (if any)**
 
-## 📜 License
-This project is licensed under the **MIT License** (if applicable).
+
 
 ## 📬 Contact
-For inquiries or collaborations, reach out via **[your email]** or **[your LinkedIn profile]**.
+For inquiries or collaborations, reach out via **shittukdj@gmail.com** .
 
