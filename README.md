@@ -14,8 +14,6 @@ This repository contains a series of coursework assessments in **Data Science**,
 │── /datasets              # Raw and processed datasets
 │── /visualizations        # Charts and graphs generated from analysis
 │── README.md              # Repository overview and findings
-│── LICENSE                # License (if applicable)
-│── .gitignore             # Ignoring unnecessary files (e.g., temp, logs)
 ```
 
 ---
